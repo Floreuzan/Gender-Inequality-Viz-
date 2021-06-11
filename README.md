@@ -1,4 +1,4 @@
-# Data
+# Gender Inequality
 
 A sizeable body of evidence suggests that reduction in gender inequality has been stagnant in the United States (e.g. Blau and Kahn 2007). Is this trend US specific, or global? We use data from the OECD, UN, and BLS to examine the trends in various measures of gender inequality.
 
